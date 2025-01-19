@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Commenter</title>
+</head>
+
+<body>
+    <h1>LinkedIn Comment Generator</h1>
+
+    <form action="/" method="POST">
+        <label for="post_text">Enter LinkedIn Post Text:</label><br>
+        <textarea id="post_text" name="post_text" rows="4" cols="50" required></textarea><br><br>
+
+        <label for="comment_text">Enter Comment Sample:</label><br>
+        <textarea id="comment_text" name="comment_text" rows="4" cols="50" required></textarea><br><br>
+
+        <input type="submit" value="Generate Comment">
+    </form>
+
+    {% if comment %}
+    <h2>Generated Comment:</h2>
+    <p>{{ comment }}</p>
+
+    <h2>Extracted Keywords:</h2>
+    <p>{{ keywords }}</p>
+    <h2>Generated linkedi_commeter:</h2>
+    <p>{{ linkedi_commeter }}</p>
+
+    <h2> Hate_commenet:</h2>
+    <p>{{ Hate_commenet }}</p>
+    {% endif %}
+
+    {% if error %}
+    <p style="color: red;">{{ error }}</p>
+    {% endif %}
+</body>
+
+</html>
