@@ -1,0 +1,236 @@
+[
+    {
+        "Title": "Ejen Ali: The Movie 2",
+        "Year": 2025,
+        "Duration": "2h",
+        "Genre": ["Animation", "Action"],
+        "Emotion": "Excited",
+        "Mood": "Adventurous",
+        "Suggested Time to Watch": "Weekend"
+    },
+    {
+        "Title": "Don't Look at the Demon",
+        "Year": 2022,
+        "Duration": "1h 35m",
+        "Genre": ["Horror"],
+        "Emotion": "Fearful",
+        "Mood": "Thrilling",
+        "Suggested Time to Watch": "Night"
+    },
+    {
+        "Title": "Tiger Stripes",
+        "Year": 2023,
+        "Duration": "1h 35m",
+        "Genre": ["Drama", "Body Horror"],
+        "Emotion": "Uneasy",
+        "Mood": "Contemplative",
+        "Suggested Time to Watch": "Rainy Evening"
+    },
+    {
+        "Title": "Keluang Man",
+        "Year": 2025,
+        "Duration": "2h",
+        "Genre": ["Action", "Superhero"],
+        "Emotion": "Inspiring",
+        "Mood": "Fun",
+        "Suggested Time to Watch": "Family Night"
+    },
+    {
+        "Title": "Don't Look Back... I Know Your Origins",
+        "Year": 2024,
+        "Duration": "1h 44m",
+        "Genre": ["Horror", "Mystery"],
+        "Emotion": "Chilling",
+        "Mood": "Dark",
+        "Suggested Time to Watch": "Night"
+    },
+    {
+        "Title": "Peppa Pig Tales",
+        "Year": 2022,
+        "Duration": "TV Series",
+        "Genre": ["Children"],
+        "Emotion": "Playful",
+        "Mood": "Cheerful",
+        "Suggested Time to Watch": "Afternoon"
+    },
+    {
+        "Title": "One Cent Thief",
+        "Year": "2022-2025",
+        "Duration": "TV Series",
+        "Genre": ["Crime"],
+        "Emotion": "Ambitious",
+        "Mood": "Serious",
+        "Suggested Time to Watch": "Weekday Evening"
+    },
+    {
+        "Title": "Kahar: Kapla High Council",
+        "Year": 2024,
+        "Duration": "1h 42m",
+        "Genre": ["Political Drama"],
+        "Emotion": "Powerful",
+        "Mood": "Dark",
+        "Suggested Time to Watch": "Rainy Evening"
+    },
+    {
+        "Title": "Ejen Ali",
+        "Year": "2016-",
+        "Duration": "TV Series",
+        "Genre": ["Animation"],
+        "Emotion": "Excited",
+        "Mood": "Adventurous",
+        "Suggested Time to Watch": "Weekend Morning"
+    },
+    {
+        "Title": "Tegkang",
+        "Year": 2024,
+        "Duration": "1h 41m",
+        "Genre": ["Romance", "Adventure"],
+        "Emotion": "Heartwarming",
+        "Mood": "Calm",
+        "Suggested Time to Watch": "Evening"
+    },
+    {
+        "Title": "A Place Called Silence",
+        "Year": 2022,
+        "Duration": "1h 44m",
+        "Genre": ["Mystery"],
+        "Emotion": "Suspenseful",
+        "Mood": "Intense",
+        "Suggested Time to Watch": "Night"
+    },
+    {
+        "Title": "Ejen Ali: The Movie",
+        "Year": 2019,
+        "Duration": "1h 37m",
+        "Genre": ["Animation", "Action"],
+        "Emotion": "Adventurous",
+        "Mood": "Fun",
+        "Suggested Time to Watch": "Weekend Morning"
+    },
+    {
+        "Title": "Dongeng Sang Kancil",
+        "Year": 2024,
+        "Duration": "1h 39m",
+        "Genre": ["Family", "Fantasy"],
+        "Emotion": "Happy",
+        "Mood": "Fun",
+        "Suggested Time to Watch": "Sunday Afternoon"
+    },
+    {
+        "Title": "Soloz: Game of Life",
+        "Year": 2025,
+        "Duration": "2h 19m",
+        "Genre": ["Sports"],
+        "Emotion": "Friendship",
+        "Mood": "Inspiring",
+        "Suggested Time to Watch": "Weekend Evening"
+    },
+    {
+        "Title": "Mechamato Movie",
+        "Year": 2022,
+        "Duration": "1h 56m",
+        "Genre": ["Animation", "Tech-SciFi"],
+        "Emotion": "Adventurous",
+        "Mood": "Family",
+        "Suggested Time to Watch": "Weekend"
+    },
+    {
+        "Title": "BoBoiBoy: The Movie",
+        "Year": 2016,
+        "Duration": "1h 40m",
+        "Genre": ["Action", "Comedy"],
+        "Emotion": "Exciting",
+        "Mood": "Fun",
+        "Suggested Time to Watch": "Family Afternoon"
+    },
+    {
+        "Title": "Gayong",
+        "Year": 2025,
+        "Duration": "2h",
+        "Genre": ["Biography", "History"],
+        "Emotion": "Respectful",
+        "Mood": "Serious",
+        "Suggested Time to Watch": "Weekend Afternoon"
+    },
+    {
+        "Title": "C4 Cinta",
+        "Year": 2024,
+        "Duration": "2h 47m",
+        "Genre": ["Drama", "Romantic"],
+        "Emotion": "Emotional",
+        "Mood": "Heartwarming",
+        "Suggested Time to Watch": "Evening"
+    },
+    {
+        "Title": "Bache Zerang",
+        "Year": 2023,
+        "Duration": "1h 25m",
+        "Genre": ["Adventure", "Animal Bond"],
+        "Emotion": "Hopeful",
+        "Mood": "Relaxing",
+        "Suggested Time to Watch": "Afternoon"
+    },
+    {
+        "Title": "Close Ur Kopitiam",
+        "Year": 2025,
+        "Duration": "1h 45m",
+        "Genre": ["Comedy", "Family"],
+        "Emotion": "Lighthearted",
+        "Mood": "Cheerful",
+        "Suggested Time to Watch": "Morning"
+    },
+    {
+        "Title": "Mr.Hiragi's Detention Class",
+        "Year": 2024,
+        "Duration": "TV Series",
+        "Genre": ["Drama"],
+        "Emotion": "Dark",
+        "Mood": "Intriguing",
+        "Suggested Time to Watch": "Night"
+    },
+    {
+        "Title": "BoBoiBoy Movie 2",
+        "Year": 2019,
+        "Duration": "2h",
+        "Genre": ["Animation", "Action"],
+        "Emotion": "Adventurous",
+        "Mood": "Fun",
+        "Suggested Time to Watch": "Weekend"
+    },
+    {
+        "Title": "Paskal",
+        "Year": 2018,
+        "Duration": "1h 55m",
+        "Genre": ["Action", "Military"],
+        "Emotion": "Patriotic",
+        "Mood": "Exciting",
+        "Suggested Time to Watch": "Weekend Evening"
+    },
+    {
+        "Title": "Don Dukun",
+        "Year": 2024,
+        "Duration": "1h 38m",
+        "Genre": ["Comedy", "Supernatural"],
+        "Emotion": "Entertaining",
+        "Mood": "Lighthearted",
+        "Suggested Time to Watch": "Night"
+    },
+    {
+        "Title": "Oasis of Now",
+        "Year": 2023,
+        "Duration": "1h 30m",
+        "Genre": ["Drama", "Slice of Life"],
+        "Emotion": "Comforting",
+        "Mood": "Relaxing",
+        "Suggested Time to Watch": "Afternoon"
+    },
+    {
+        "Title": "Alif & Sofia",
+        "Year": "2019-",
+        "Duration": "TV Mini Series",
+        "Genre": ["Children"],
+        "Emotion": "Learning",
+        "Mood": "Happy",
+        "Suggested Time to Watch": "Morning"
+    }
+]
