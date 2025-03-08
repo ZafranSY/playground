@@ -31,7 +31,7 @@ def get_options():
         "genres": all_genres
     }
 
-@app.post("/recommendations")
+@app.post("/recommend")  # Change from "/recommendations" to "/recommend"
 def recommendations(user_input: UserInput):
     """Get movie recommendations based on user input."""
     recs = get_recommendations(
